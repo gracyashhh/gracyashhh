@@ -50,6 +50,11 @@
     Se you! 
 
   <p align="center">   
+    
+<div align="right">
+  
+![Programming](https://img.shields.io/badge/%E2%98%95-Coding-success) [![Thanks!](https://img.shields.io/badge/%E2%9D%A4-Thanks%20for%20visiting-blueviolet)](https://gracyashhh.github.io/gracyashhh/)
+</div>
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
