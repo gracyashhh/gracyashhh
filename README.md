@@ -1,6 +1,7 @@
 ## Hello World 👋 <img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
 <!-- ![greet](images/greet.gif) -->
-<img src="https://github.com/gracyashhh/gracyashhh/blob/main/images/greet.gif" width="750px">
+<img src="https://im4.ezgif.com/tmp/ezgif-4-8ffbb4316f94.gif" width="750px">
+
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 
