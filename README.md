@@ -5,7 +5,12 @@
 
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🔭 I’m currently working on Data Analysis and Visualization 
+- 🌱 I’m currently learning Java with Data Structures and Algorithms
+- ⚡ Fun fact: I spend more time automating things than actually doing it manually!
+- 💬 Ask me about 
 
+<h3><i>Spare some time to take a look at my <a href="http://aishgrace.me/">portfolio</a>!</i></h3>
 
 ### 🛠 &nbsp;My Tech Toolbox 🧰 
 
@@ -37,6 +42,7 @@
   
 </p>
 
+ 
   
   ### 🎨 Web Dev
   <p align="left">
@@ -54,6 +60,7 @@
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="replit" width="40" height="40"/>
   </p>
+ 
   
   ### 💾 Tools I use
   <p align="left">
@@ -85,14 +92,19 @@
 
 <img height="137px" width="722px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracyashhh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><img src="images/octacat.png" width="177px">
 
-<img height="137px" width="722px" src="https://github-readme-stats.vercel.app/api?username=gracyashhh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" width="622px" src="https://github-readme-stats.vercel.app/api?username=gracyashhh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
-<p><img align="center" height="197px" width="722px" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsridher&theme=radical" alt="arunsridher" /></p>
+<p><img align="center" height="197px" width="422px"  src="https://github-readme-streak-stats.herokuapp.com/?user=arunsridher&theme=radical" alt="gracyashhh" /></p>
+
+<p><img align="right" height="197px" width="722px"  src="https://github-profile-trophy.vercel.app/?username=gracyashhh&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" alt="gracyashhh" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gracyashhh&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
 ---
- 
+
+  
+
+  
 <p align="center">
   <i>Let's connect! Find me on...</i>
    
@@ -106,11 +118,13 @@
 </a>
 
   <p align="center">
-    Se you! 
+    See you! 
 
   <p align="center">   
     
 <div align="right">
+  
+  <img src="images/multicat.jpg" width="107px" border-radius="100px">
   
 ![Programming](https://img.shields.io/badge/%E2%98%95-Coding-success) [![Thanks!](https://img.shields.io/badge/%E2%9D%A4-Thanks%20for%20visiting-blueviolet)](https://gracyashhh.github.io/gracyashhh/)
 </div>
