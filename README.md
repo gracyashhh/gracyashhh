@@ -90,9 +90,9 @@
 
 ## 📈 &nbsp;My Stats
 
-<img height="137px" width="722px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracyashhh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><img src="images/octacat.png" width="177px">
+<img height="137px" width="722px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracyashhh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
-<img height="137px" width="622px" src="https://github-readme-stats.vercel.app/api?username=gracyashhh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" width="622px" src="https://github-readme-stats.vercel.app/api?username=gracyashhh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img align="right" src="images/octacat.png" width="177px">
 
 <p><img align="center" height="197px" width="422px"  src="https://github-readme-streak-stats.herokuapp.com/?user=arunsridher&theme=radical" alt="gracyashhh" /></p>
 
