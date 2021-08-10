@@ -5,10 +5,38 @@
 
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+<img src="" alt="" width="40" height="40"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;My Tech Toolbox 🧰 
+<p align="left">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" alt="jinja" width="40" height="40"/> 
+<img src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/java-512.png" alt="java" width="65" height="65"/> 
+<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
+  <br><br>
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="html5" height="40"/> 
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="css3" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="40"/> 
+  <br><br>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/bracketsio/bracketsio-icon.svg" alt="bracket" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
+  <br><br>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="gitlab" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="opensource" width="40" height="40"/>
+  
+  
 
-- 🌐 &nbsp;
+</p>
+
+ 
+<!-- - 🌐 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -20,7 +48,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
 
 ## 📈 &nbsp;My Stats
 
