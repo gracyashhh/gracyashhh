@@ -1,7 +1,7 @@
 
 ## Hello World <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /> <img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>![](https://visitor-badge.glitch.me/badge?page_id=gracyashhh)  
 <!-- ![greet](images/greet.gif) -->
-<img src="https://im4.ezgif.com/tmp/ezgif-4-8ffbb4316f94.gif" width="750px">
+<img src="images/github.gif" width="750px">
 
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
