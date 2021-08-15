@@ -9,9 +9,11 @@
 - 🌱 I’m currently learning Java with **Data Structures and Algorithms**
 - ⚡ Fun fact: I spend more time automating things than actually doing it manually!
 - 💬 Ask me about Automation, Competitive Programming & Desktop Application Development🤩
+- 🎯 2021 Goal: Mastering DSA and Complete Full stack Development
+- 😄 Pronouns: She/Her
 - And When I'm not coding, you can probably find me doing one of these: speaking on podcast, writing poems, painting, learning a new skill or a yummy recipe :D
 
-<h3><i>Spare some time to take a look at my <a href="http://aishgrace.me/">portfolio</a>!</i></h3>
+<h3><i>Spare some time to take a look at my <a href="http://aishgrace.me/">Portfolio</a>! and maybe my <a href="https://drive.google.com/file/d/1jokIGSqOwHd5zZFR89myBUSu4QI4Fx0n/view?usp=sharing">Resume</a> too :D</i></h3>
 
 ### 🛠 &nbsp;My Tech Toolbox 🧰 
 
@@ -122,8 +124,7 @@
 </a>
 
   <p align="center">
-    See you! 
-
+     Show some  ❤️  by starring some of the repositories!
   <p align="center">   
     
 <div align="right">
