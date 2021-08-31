@@ -13,7 +13,7 @@
 - 😄 Pronouns: She/Her
 - And When I'm not coding, you can probably find me doing one of these: speaking on podcast, writing poems, painting, learning a new skill or a yummy recipe :D
 
-<h3><i>Spare some time to take a look at my <a href="http://aishgrace.me/">Portfolio</a>! and maybe my <a href="https://drive.google.com/file/d/1jokIGSqOwHd5zZFR89myBUSu4QI4Fx0n/view?usp=sharing">Resume</a> too :D</i></h3>
+<h3><i>Spare some time to take a look at my <a href="http://aishgrace.me/">Portfolio</a>! and maybe my <a href="https://drive.google.com/file/d/1i6nHOzHCNDVmyM4p_AWSPmZmKAuR1e9r/view?usp=sharing">Resume</a> too :D</i></h3>
 
 ### 🛠 &nbsp;My Tech Toolbox 🧰 
 
