@@ -5,11 +5,11 @@
 
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🔭 I’m currently working on ***Data Analysis and Visualization*** 
-- 🌱 I’m currently learning Java with **Data Structures and Algorithms**
-- ⚡ Fun fact: I spend more time automating things than actually doing it manually!
+- 🔭 I’m currently exploring ***Eel*** on connecting Python and Js in my Experimental Projec😉
+- 🌱 I’m currently learning **Django**
+- ⚡ Fun fact: I spend more time automating things than actually doing it manually!😎
 - 💬 Ask me about Automation, Competitive Programming & Desktop Application Development🤩
-- 🎯 2021 Goal: Mastering DSA and Complete Full stack Development
+- 🎯 2022 Goal: Learning Django and ReactJS
 - 😄 Pronouns: She/Her
 - And When I'm not coding, you can probably find me doing one of these: speaking on podcast, writing poems, painting, learning a new skill or a yummy recipe :D
 
